@@ -1,6 +1,8 @@
 # Mine
 **/.DS_Store
-
+**/*.pkl
+**/*.bin
+**/glove*/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
